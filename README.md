@@ -14,7 +14,7 @@ Getting Started
 To get a local copy up and running, follow these steps:
 
 Clone the repository:
-git clone https://github.com/yourusername/web-scraping-python.git
+[git clone https://github.com/yourusername/web-scraping-python.git](https://github.com/Sandytris/web-scraping-using-python)
 
 Navigate to the project directory:
 cd web-scraping-python
